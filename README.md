@@ -55,9 +55,9 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Admin Service | POST Create Corpus, POST Delete Corpus, POST List Corpora, POST Reset Corpus |
-| Index Service | POST Delete, POST Index, POST File Upload |
-| Query Service | POST Query, POST Stream Query |
+| Admin Service | Post create corpus, Post delete corpus, Post list corpora, Post reset corpus |
+| Index Service | Post delete, Post index, Post file upload |
+| Query Service | Post query, Post stream query |
 
 ---
 
